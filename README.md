@@ -184,8 +184,9 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osamakhedr123&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2196F3&text_color=777777&icon_color=2196F3" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osamakhedr123&theme=transparent&hide_border=true&layout=compact&title_color=2196F3&text_color=777777" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Osamakhedr123&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Osamakhedr123&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Osamakhedr123&theme=github_dark&utcOffset=2" width="32%" />
 </div>
 
 <br>
