@@ -162,24 +162,30 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 <h2 align="center">🏅 Certifications</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure_AI_Engineer_(AI--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Data_Engineer_(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <a href="https://www.credly.com/badges/c6322c28-a40e-4629-b9ed-da290f8fd326"><img src="https://img.shields.io/badge/Microsoft_Azure_AI_Engineer_(AI--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/080c7dcd-fb95-4a4f-819b-dd57e1a2ab93"><img src="https://img.shields.io/badge/Azure_Data_Engineer_(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Udacity_Deep_Learning_Nanodegree-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udacity_ML_with_TensorFlow-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />
+  <a href="https://www.coursera.org/account/accomplishments/verify/WJJV161WGU6B"><img src="https://img.shields.io/badge/ML_in_Production-02B3E4?style=for-the-badge&logo=coursera&logoColor=white" /></a>
+  <a href="https://www.coursera.org/verify/DUZ2WYXS7P8B"><img src="https://img.shields.io/badge/Stanford_Machine_Learning-02B3E4?style=for-the-badge&logo=coursera&logoColor=white" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/ZMNIS4ZNHLFM"><img src="https://img.shields.io/badge/Math_for_ML_&_Data_Science-02B3E4?style=for-the-badge&logo=coursera&logoColor=white" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Business_Analytics_Nanodegree-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced_Data_Analysis-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />
+  <a href="https://confirm.udacity.com/MDPHJCGW"><img src="https://img.shields.io/badge/Deep_Learning_Nanodegree-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /></a>
+  <a href="https://confirm.udacity.com/YSPKU6AP"><img src="https://img.shields.io/badge/ML_with_TensorFlow-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://confirm.udacity.com/NYQKHDQX"><img src="https://img.shields.io/badge/Advanced_Data_Analysis-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /></a>
+  <a href="https://confirm.udacity.com/PQDALTKZ"><img src="https://img.shields.io/badge/Data_Analysis_Professional-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /></a>
 </p>
 
 <br>
 
-<h2 align="center">📊 Contributions</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/2196F3/Osamakhedr123" alt="GitHub Contributions" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Osamakhedr123&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2196F3&text_color=777777&icon_color=2196F3" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osamakhedr123&theme=transparent&hide_border=true&layout=compact&title_color=2196F3&text_color=777777" width="49%" />
 </div>
 
 <br>
