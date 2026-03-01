@@ -41,7 +41,7 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 | 🏭 | 🎯 | 👥 | 🤝 | 🔬 | 💻 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **4+** | **99%** | **1,000+** | **50+** | **100+** | **19** |
-| Years Production AI | Recall @ 95% Precision | Students Mentored | Clients Served | Research Consultations | GitHub Repositories |
+| Years Production AI | Recall @ 95% Precision | Students Mentored | Clients Served | Research Consultations | Public GitHub Repositories |
 
 </div>
 
