@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
 ```yaml
 name: Osama Khedr
@@ -34,7 +34,7 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 
 <br>
 
-## 📈 Impact at a Glance
+<h2 align="center">📈 Impact at a Glance</h2>
 
 <div align="center">
 
@@ -47,9 +47,11 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 
 <br>
 
-## 🏢 Professional Journey
+<h2 align="center">🏢 Professional Journey</h2>
 
-> **Building AI systems that move from prototype to production — from recommender engines to fraud detection to OCR microservices.**
+<div align="center">
+  <b>Building AI systems that move from prototype to production — from recommender engines to fraud detection to OCR microservices.</b>
+</div>
 
 <table>
   <tr>
@@ -99,7 +101,7 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 
 <br>
 
-## 🎯 Core Competencies
+<h2 align="center">🎯 Core Competencies</h2>
 
 <table>
   <tr>
@@ -122,7 +124,7 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 
 <br>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -157,7 +159,7 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 
 <br>
 
-## 🏅 Certifications
+<h2 align="center">🏅 Certifications</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure_AI_Engineer_(AI--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -174,7 +176,7 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 
 <br>
 
-## 📊 Contributions
+<h2 align="center">📊 Contributions</h2>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/2196F3/Osamakhedr123" alt="GitHub Contributions" width="98%" />
