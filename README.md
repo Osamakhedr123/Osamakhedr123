@@ -184,9 +184,7 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Osamakhedr123&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Osamakhedr123&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Osamakhedr123&theme=github_dark&utcOffset=2" width="32%" />
+  <img src="https://img.shields.io/badge/Total_Contributions-200+-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
 </div>
 
 <br>
