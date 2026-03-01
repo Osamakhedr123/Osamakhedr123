@@ -184,7 +184,7 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-200+-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Total_Contributions-500+-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
 </div>
 
 <br>
