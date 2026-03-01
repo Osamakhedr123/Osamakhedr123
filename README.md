@@ -177,7 +177,7 @@ motto: "Bridging the gap between theoretical models and real-time, high-throughp
 ## 📊 Contributions
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Osamakhedr123&theme=transparent" width="98%" />
+  <img src="https://ghchart.rshah.org/2196F3/Osamakhedr123" alt="GitHub Contributions" width="98%" />
 </div>
 
 <br>
